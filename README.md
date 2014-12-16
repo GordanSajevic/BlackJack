@@ -1,3 +1,3 @@
 BlackJack
 =========
-Igra Black Jack ili Ajnc (nije dovršeno)
+Igra Black Jack ili Ajnc (Zadatak za samostalan rad)

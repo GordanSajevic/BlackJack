@@ -1,5 +1,7 @@
 
 public class Card {
+	
+	//Zadaci za samostalan rad
 
 	private int broj;
 	private int vrijednost;

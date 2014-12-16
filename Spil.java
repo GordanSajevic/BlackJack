@@ -1,6 +1,8 @@
 
 public class Spil {
 
+	//Zadaci za samostalan rad
+
 	private Card[] spil;
 	int brojac;
 	

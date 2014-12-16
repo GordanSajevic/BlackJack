@@ -57,7 +57,7 @@ public class Card {
 	 * @return
 	 */
 	
-	private int getVrijednost() {
+	public int getVrijednost() {
 		return vrijednost;
 		
 	}
